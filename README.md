@@ -6,6 +6,7 @@ I like to program with:
 ___
 
 - 🔭 I’m currently working on a rubiks cube solver
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=blahberi&repo=rubiks_cube&theme=tokyonight)](https://github.com/blahberi/rubiks_cube)
 - 🌱 I’m currently learning how to use openGL
 - 👯 I’m looking to collaborate on ... limiting social interaction as much as possible so no colabs
