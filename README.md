@@ -1,7 +1,7 @@
 ### Hi there 👋
-im blahberi
+I'm blahberi
 
-🔭 I’m currently working on a rubiks cube solver
+- 🔭 I’m currently working on a rubiks cube solver
 - 🌱 I’m currently learning c++
 - 👯 I’m looking to collaborate on ... limiting social interaction as much as possible so no colabs
 - 🤔 I’m looking for help with ... life
