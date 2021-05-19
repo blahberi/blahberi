@@ -5,7 +5,7 @@ im blahberi
 - 🌱 I’m currently learning c++
 - 👯 I’m looking to collaborate on ... limiting social interaction as much as possible so no colabs
 - 🤔 I’m looking for help with ... life
-- 💬 Ask me about ... If you have a question, Iprobably don't have the answer
+- 💬 Ask me about ... If you have a question, I probably don't have the answer
 - 📫 How to reach me: ... don't
 <!--
 **blahberi/blahberi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
