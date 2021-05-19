@@ -1,6 +1,7 @@
 ### Hi there 👋
 I'm blahberi. I am an artist and a programmer.
-I like to program with
+I like to program with:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blahberi)](https://github.com/anuraghazra/github-readme-stats)
 ___
 
