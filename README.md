@@ -2,7 +2,7 @@
 I'm blahberi. I am an artist and a programmer.
 I like to program with:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blahberi)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blahberi&theme=tokyonight)
 ___
 
 - 🔭 I’m currently working on a rubiks cube solver
