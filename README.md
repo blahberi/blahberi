@@ -8,7 +8,7 @@ ___
 - 🔭 I’m currently working on
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=blahberi&repo=rubiks_cube&theme=tokyonight)](https://github.com/blahberi/rubiks_cube)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=blahberi&repo=rubiks_cube&theme=tokyonight)](https://github.com/blahberi/sudoku_solver)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=blahberi&repo=sudoku_solver&theme=tokyonight)](https://github.com/blahberi/sudoku_solver)
 - 🌱 I’m currently learning: additions in first grade
 - 👯 I’m looking to collaborate on: nothing, limiting social interaction as much as possible so no colabs
 - 🤔 I’m looking for help with: life...
