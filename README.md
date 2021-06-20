@@ -12,8 +12,8 @@ ___
 - 🌱 I’m currently learning: additions in first grade
 - 👯 I’m looking to collaborate on: nothing, limiting social interaction as much as possible so no colabs
 - 🤔 I’m looking for help with: life...
-- 💬 Ask me about ... If you have a question, I probably don't have the answer
-- 📫 How to reach me: ... don't
+- 💬 Ask me about: If you have a question, I probably don't have the answer
+- 📫 How to reach me: don't
 
 ___
 
