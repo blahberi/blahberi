@@ -5,12 +5,13 @@ I like to program with:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blahberi&theme=tokyonight)
 ___
 
-- 🔭 I’m currently working on a rubiks cube solver
+- 🔭 I’m currently working on
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=blahberi&repo=rubiks_cube&theme=tokyonight)](https://github.com/blahberi/rubiks_cube)
-- 🌱 I’m currently learning how to use openGL
-- 👯 I’m looking to collaborate on ... limiting social interaction as much as possible so no colabs
-- 🤔 I’m looking for help with ... life
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=blahberi&repo=rubiks_cube&theme=tokyonight)](https://github.com/blahberi/sudoku_solver)
+- 🌱 I’m currently learning: additions in first grade
+- 👯 I’m looking to collaborate on: nothing, limiting social interaction as much as possible so no colabs
+- 🤔 I’m looking for help with: life...
 - 💬 Ask me about ... If you have a question, I probably don't have the answer
 - 📫 How to reach me: ... don't
 
