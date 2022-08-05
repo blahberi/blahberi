@@ -1,5 +1,11 @@
 ### Hi there 👋
-I'm blahberi. I am an artist and a programmer.
+I'm blahberi. I am an artist and a proffesional programmer.
+My hobbies include drumming and drawing. but my favorite hobby and now my part-time profession is coding
+
+I'm currently suffering through the epitome of hell, also known as high school...
+
+I code after school for a startup company while studying math and computer science at an open university.
+
 I like to program with:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blahberi&theme=tokyonight)
@@ -14,7 +20,6 @@ ___
 - 🤔 I’m looking for help with: life...
 - 💬 Ask me about: If you have a question, I probably don't have the answer
 - 📫 How to reach me: don't
-
 ___
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=blahberi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
