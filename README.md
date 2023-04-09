@@ -1,20 +1,22 @@
 ### Hi there 👋
-I'm blahberi. I am an artist and a proffesional programmer.
-My hobbies include drumming and drawing. But my favorite hobby and now my part-time profession is coding.
+I'm blahberi. I am an artist and a (semi)proffesional programmer.
+My hobbies include drumming and drawing and programming.
 
-I'm currently suffering through the epitome of hell, also known as high school...
+I'm currently a highschool freshman but I am also a student at the [Open University Of Israel](https://www.openu.ac.il/en/pages/default.aspx)
 
-I code after school for a startup company while studying math and computer science at an open university.
+I make shitty projects like a horrible rubicks cube solver and other stupid stuff like that.
 
 I like to program with:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blahberi&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blahberi&theme=gruvbox)
+
+(why df is powershell there?)
 ___
 
 - 🔭 I’m currently working on
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=blahberi&repo=rubiks_cube&theme=tokyonight)](https://github.com/blahberi/rubiks_cube)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dropletOrg&repo=FIG&theme=tokyonight)](https://github.com/dropletOrg/FIG)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=blahberi&repo=rubiks_cube&theme=gruvbox)](https://github.com/blahberi/rubiks_cube)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dropletOrg&repo=FIG&theme=gruvbox)](https://github.com/dropletOrg/FIG)
 - 🌱 I’m currently learning: Additions in first grade.
 - 👯 I’m looking to collaborate on: Nothing, limiting social interaction as much as possible.
 - 🤔 I’m looking for help with: Life...
@@ -22,7 +24,7 @@ ___
 - 📫 How to reach me: Don't
 ___
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=blahberi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=blahberi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=gruvbox" />
 
 <br />
 <br />
