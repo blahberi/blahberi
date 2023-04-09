@@ -1,6 +1,6 @@
 ### Hi there 👋
-I'm blahberi. I am an artist and a (semi)proffesional programmer.
-My hobbies include drumming and drawing and programming.
+Hello I'm blahberi. (semi)proffesional programmer.
+My hobbies include drumming, drawing and programming.
 
 I'm currently a highschool freshman but I am also a student at the [Open University Of Israel](https://www.openu.ac.il/en/pages/default.aspx).
 
