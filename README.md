@@ -2,7 +2,7 @@
 Hello I'm blahberi. (semi)proffesional programmer.
 My hobbies include drumming, drawing and programming.
 
-I'm currently a highschool freshman but I am also a student at the [Open University Of Israel](https://www.openu.ac.il/en/pages/default.aspx).
+I'm currently a highschool freshman and a student at the [Open University Of Israel](https://www.openu.ac.il/en/pages/default.aspx).
 
 I make shitty projects like a horrible Rubick's cube solver and other stupid stuff like that.
 
