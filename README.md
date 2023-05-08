@@ -4,7 +4,7 @@ My hobbies include drumming, drawing and programming.
 
 I'm currently a highschool freshman and a student at the [Open University Of Israel](https://www.openu.ac.il/en/pages/default.aspx).
 <br>Rat tickling certification:
-<br><img width="200px" src="https://github.com/blahberi/blahberi/blob/main/rat_tickling.png?raw=true" />
+<br><img width="300px" src="https://github.com/blahberi/blahberi/blob/main/rat_tickling.png?raw=true" />
 
 I make shitty projects like a horrible Rubick's cube solver and other stupid stuff like that.
 
