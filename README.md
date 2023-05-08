@@ -3,6 +3,8 @@ Hello I'm blahberi. (semi)proffesional programmer.
 My hobbies include drumming, drawing and programming.
 
 I'm currently a highschool freshman and a student at the [Open University Of Israel](https://www.openu.ac.il/en/pages/default.aspx).
+Rat tickling certification:
+https://github.com/blahberi/blahberi/blob/main/rat_tickling.png?raw=true
 
 I make shitty projects like a horrible Rubick's cube solver and other stupid stuff like that.
 
