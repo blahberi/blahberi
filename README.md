@@ -11,10 +11,8 @@ I like to program with:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blahberi&theme=gruvbox)
 ___
 
-- 🔭 I’m currently working on<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=blahberi&repo=rubiks_cube&theme=gruvbox)](https://github.com/blahberi/rubiks_cube)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dropletOrg&repo=FIG&theme=gruvbox)](https://github.com/dropletOrg/FIG)
-- 🌱 I’m currently learning system programming in C, data structures and algorithms.
+- 🔭 I’m currently focusing on my highschool and academic studies. 
+- 🌱 I’m currently learning system programming in C, data structures and algorithms, real analysis, probability theory and statistics
 - 💬 Ask me about: If you have a question, I probably don't have the answer. Althought you can try reach out to me anyways. :)
 - 📫 You can reach out to me on Twitter.
 - ⚡ Fun fact: I really love generating functions. I also drum sometimes.
