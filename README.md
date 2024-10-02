@@ -12,7 +12,7 @@ I like to program with:
 ___
 
 - 🔭 I’m currently focusing on my highschool and academic studies. 
-- 🌱 I’m currently learning system programming in C, data structures and algorithms, real analysis, probability theory and statistics
+- 🌱 I’m currently learning low level programming in C, data structures and algorithms, real analysis, probability theory and statistics
 - 💬 Ask me about: If you have a question, I probably don't have the answer. Althought you can try reach out to me anyways. :)
 - 📫 You can reach out to me on Twitter.
 - ⚡ Fun fact: I really love generating functions. I also drum sometimes.
