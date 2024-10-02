@@ -15,7 +15,7 @@ ___
 - 🌱 I’m currently learning low level programming in C, data structures and algorithms, real analysis, probability theory and statistics
 - 💬 Ask me about: If you have a question, I probably don't have the answer. Althought you can try reach out to me anyways. :)
 - 📫 You can reach out to me on Twitter.
-- ⚡ Fun fact: I really love generating functions. I also drum sometimes.
+- ⚡ Fun fact: I really love generating functions.
 ___
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=blahberi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=gruvbox" />
