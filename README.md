@@ -1,8 +1,5 @@
 ### Hi there 👋
-Hello I'm Eitan H.
-I do math and Computer Science stuff on here.
-
-I'm currently a highschool senior and a second year undergraduate Computer Science student.
+Hello I'm Eitan Hanson. I'm currently a highschool senior and a second year undergraduate Computer Science student.
 <br>Rat tickling certification:
 <br><img width="400em" src="https://github.com/blahberi/blahberi/blob/main/rat_tickling.png?raw=true" />
 
