@@ -20,7 +20,7 @@ ___
 <br />
 <br />
 
-[<img align="left" alt="blahberi | Bluesky" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/bluesky.svg" />][bluesky]
+[<img align="left" alt="blahberi | Bluesky" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/bluesky.svg" />][bluesky]
 <!--
 **blahberi/blahberi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
