@@ -8,11 +8,11 @@ I like to program with:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blahberi&theme=gruvbox)
 ___
 
-- 🔭 I’m currently focusing on my highschool and academic studies. 
-- 🌱 I’m currently learning low level programming in C, data structures and algorithms, real analysis, probability theory and statistics
+- 🔭 I’m currently focusing on my job as a fullstack software engineer.
+- 🌱 I’m currently learning low level programming in C, and studying Game Theory.
 - 💬 Ask me about: If you have a question, I probably don't have the answer. Althought you can try reach out to me anyways. :)
-- 📫 You can reach out to me on Twitter.
-- ⚡ Fun fact: I really love generating functions.
+- 📫 You can reach out to me on Bluesky.
+- ⚡ Fun fact: I really love generating functions, the coolest tool in combinatorics.
 ___
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=blahberi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=gruvbox" />
@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[twitter]: https://twitter.com/blahberi
+[twitter]: https://bluesky.com/[blahberi](https://bsky.app/profile/blahberi.bsky.social)
