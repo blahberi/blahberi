@@ -20,7 +20,7 @@ ___
 <br />
 <br />
 
-[<img align="left" alt="blahberi | Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="blahberi | Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bluesky.svg" />][bluesky]
 <!--
 **blahberi/blahberi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[twitter]: https://bluesky.com/[blahberi](https://bsky.app/profile/blahberi.bsky.social)
+[bluesky]: https://bluesky.com/https://bsky.app/profile/blahberi.bsky.social
